@@ -1,2 +1,2 @@
 # RetailHub
-Retail Management system
+Retail Management system for Praddy Enterprises
